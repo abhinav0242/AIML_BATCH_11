@@ -11,3 +11,5 @@
 6.[Lab 07] [https://github.com/abhinav0242/AIML_BATCH_11/blob/main/Lab_7.ipynb]
 
 7.[Lab 04] [https://github.com/abhinav0242/AIML_BATCH_11/blob/main/lab_4_(2).ipynb]
+
+8.[Lab 08] [https://github.com/abhinav0242/AIML_BATCH_11/blob/main/LAB_08.ipynb]
